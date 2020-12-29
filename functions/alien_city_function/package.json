@@ -1,0 +1,10 @@
+{
+	"name": "alien_city_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "srinath.p@zohocorp.com",
+	"dependencies": {
+		"express": "^4.17.1",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "alien_city_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

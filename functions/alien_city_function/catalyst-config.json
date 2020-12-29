@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "alien_city_function",
+		"stack": "node10",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
